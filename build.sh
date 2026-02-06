@@ -52,6 +52,7 @@ files=(
     src/testnet/upgrade-2_0_4.md
     src/testnet/upgrade-2_1_0.md
     src/testnet/upgrade-2_1_1.md
+    src/testnet/upgrade-2_1_2.md
 )
 
 for file in ${files[*]}
