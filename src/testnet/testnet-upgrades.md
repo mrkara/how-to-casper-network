@@ -29,6 +29,7 @@
 - [TestNet Upgrade to casper-node v2.1.0](upgrade-2_1_0.md)
 - [TestNet Upgrade to casper-node v2.1.1](upgrade-2_1_1.md)
 - [TestNet Upgrade to casper-node v2.1.2](upgrade-2_1_2.md)
+- [TestNet Upgrade to casper-node v2.2.0](upgrade-2_2_0.md)
 
 [include ../disclaimer.md]
 
