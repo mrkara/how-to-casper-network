@@ -30,6 +30,7 @@
 - [TestNet Upgrade to casper-node v2.1.1](upgrade-2_1_1.md)
 - [TestNet Upgrade to casper-node v2.1.2](upgrade-2_1_2.md)
 - [TestNet Upgrade to casper-node v2.2.0](upgrade-2_2_0.md)
+- [TestNet Upgrade to casper-node v2.2.1](upgrade-2_2_1.md)
 
 
 _Please note that the Casper Testnet program is implemented by providing rewards
